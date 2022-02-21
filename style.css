@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 .body{
     background-color: pink;
+=======
+body {
+  background-color: pink;
+}
+h1 {
+  color: rgb(59, 9, 59);
+>>>>>>> a917ab259836bec37e5b96d6160bd5d62bd1552e
 }
